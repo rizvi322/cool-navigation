@@ -115,7 +115,6 @@ body {
 
 .main-heading {
   font-size: 4rem;
-  width: 40%;
 }
 
 .details {
@@ -177,3 +176,5 @@ body {
 [data-show-menu] > .forground > header > nav {
   color: black;
 }
+
+
